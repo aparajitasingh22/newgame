@@ -1,0 +1,32 @@
+1. Charecters = PC = Playing charecter
+charecter = controlled by players
+NPC = non playing charecters = controlled by computer
+2. Goal
+3. Game Rules 
+4. Balance = in game rule
+5.game adaptivity
+6.chance vs skills
+7. feedbacks 
+
+Story :-
+You are stuck in a maze and you have to find a way out of it.You can decide your charecter and will 
+have special weapons / powers to go through it and survive in it.You may face opponent player
+defete him and win , you may also face obstacles avoid it and find your way.
+
+Characters = PC => you and opponent player
+             NPC => Weapons,obstacles like evil robots,shockers
+
+Goal = Defete opponent and avoid obstacles and find way out of the maze.
+
+Rules =
+      => If you collide with opponent both the players can attack each other,if they get hit they will
+loose life.
+      => If you collide with obstacles- 1.Shockers - loose life, 2.Evil Robot - Loose life and loose
+progress , back to starting point.
+      => Collect coins to lead the score board .
+      => Collect power pallet to increase life.
+
+Task to be done before next class.
+1.Design maze on paper.
+2.Collect images.(both player avtars,weapon images,evil robots,electric shocker images,coins,power
+pallet(battery),start button image,restart image.     
